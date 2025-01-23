@@ -4,7 +4,7 @@ This repository contains the dataset related to the paper "A Two-Stage Stochasti
 
 ## Formats
 ### Instances
-The instance format follows the structure used by Carter et al. in the paper "Examination timetabling: Algorithmic strategies and applications" with one exception: the header includes the total number of seats available (i.e. the sum of all individual room capacities) making the problem a Capacitated Examination Timetabling problem.
+The instance format follows the structure used by Carter et al. in the paper "Examination timetabling: Algorithmic strategies and applications" with one exception: the header includes the total number of seats available (i.e. the sum of all individual room capacities) making the problem a Capacitated Examination Timetabling problem. The dataset is divided into three subsets (D1, D2, D3), each containing 10 instances with increasing sizes.
 
 ### Scenarios
 
