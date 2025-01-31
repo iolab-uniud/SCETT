@@ -1,6 +1,6 @@
 # SCETT
 
-This repository contains the dataset used to the paper "A Two-Stage Stochastic Programming Approach Against Uncertain Student Capacity in Examination Timetabling", by Sara Ceschia, Daniele Manerba, Andrea Schaerf, Eugenia Zanazzo, and Roberto Zanotti, currenty submitted for publication. It includes the instance files as well as the disruption files used to test the PH method presented in the paper.
+This repository contains the dataset used to the paper "A two-stage Stochastic Programming approach for Examination Timetabling with uncertain capacity", by Sara Ceschia, Daniele Manerba, Andrea Schaerf, Eugenia Zanazzo, and Roberto Zanotti, currenty submitted for publication. It includes the instance files as well as the disruption files used to test the PH method presented in the paper.
 
 ## Formats
 ### Instances
