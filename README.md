@@ -5,8 +5,8 @@ This repository contains the dataset used to the paper "A two-stage Stochastic P
 ## Formats
 ### Instances
 The instance format follows the structure used by Carter et al. in the paper "[Examination timetabling: Algorithmic strategies and applications](https://www.tandfonline.com/doi/abs/10.1057/jors.1996.37)" with one exception: the header includes the total number of seats available (i.e. the sum of all individual room capacities) making the problem a Capacitated Examination Timetabling problem. 
-The dataset is divided into four subsets (D0, D1, D2, D3). D0 contains 20 instances and was used to perform an in-sample stability analysis of the generated instances. 
-The remaining subsets (D1, D2, D3) each contain 10 instances, with increasing sizes, along with the corresponding 10 disruption files that describe the disruptions for each of the 50 scenarios.
+The dataset is divided into five subsets (D0, D1, D2, D3, D4). D0 contains 20 instances and was used to perform an in-sample stability analysis of the generated instances. 
+The remaining subsets (D1, D2, D3, D4) each contain 10 instances, with increasing sizes, along with the corresponding 10 disruption files that describe the disruptions for each of the 50 scenarios. Dataset D4 was created starting from the benchmarks commonly used in the literature, i.e., the Toronto instances.
 
 ### Scenarios
 
